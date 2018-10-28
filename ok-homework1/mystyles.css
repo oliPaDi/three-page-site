@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	text-align: center;
+	background-color: #FFFFFF;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1.2em;
+}
+.updateText {
+	font-size: 0.7em;
+}
+.subtitle {
+	font-size: 1.5em;
+}
